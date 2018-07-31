@@ -1,0 +1,43 @@
+/*h1{
+  color:blue;
+  font-size: 20px;
+  font-family: verdana;
+}*/
+/*selectores*/
+/**{
+font-family: verdana
+}*/
+
+
+body {
+  font-family: verdana;
+  margin 0;
+}
+header{
+  background: cornflowerblue;
+  color:white;
+  margin:0px 0px;
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.portada{
+  text-align: center;
+  background: Gainsboro;
+}
+.portada h2{
+  text-transform: uppercase;
+}
+
+.portada p{
+  font-style:  
+}
+#main-footer{
+  text-align: center;
+  font-weight: bold;
+}
+.turi{
+  text-align: center;
+  color: red;
+  background: Gainsboro;
+}
