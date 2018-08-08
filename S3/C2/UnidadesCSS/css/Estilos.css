@@ -25,10 +25,12 @@ li{
   margin: 10px;
   width: 1cm;
   height: 2cm;
+  font-size: 2.8em;
 }
 .r-1{
   background: #F7FFE5;
   width: 50%;
   height: 200px;
   margin-top: 10px;
+  margin-left: 30px;
 }

@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed|BenchNine|Great+Vibes|Marck+Script|Shadows+Into+Light+Two');
+
+
+/*1.Fuentes*/
+.titulo h1{
+  font-family: 'Shadows Into Light Two', cursive;
+}
+.titulo p{
+  font-family: 'Bad Script', cursive;
+
+}
+
+.titulo1 h2{
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.titulo1 p{
+  font-family: 'BenchNine', sans-serif;
+
+}
